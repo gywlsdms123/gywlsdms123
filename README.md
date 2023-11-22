@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gywlsdms123&show_icons=true&theme=radical)
+
 <!--
 **gywlsdms123/gywlsdms123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
