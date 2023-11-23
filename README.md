@@ -1,9 +1,9 @@
 ### Hi there! 👋 I'm hyojin
+---
 
+Contact 👇
 <p>
-  <a href="https://skillfromthesky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hyojin-lee-8b03671a5/" target="_blank"><img src="https://img.shields.io/badge/Hyojin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:hyodddang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyodddang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
   
@@ -14,8 +14,19 @@
 - I love Rock Music, playing Guiter 🎸 🤟
 - Ask me about anything [here](https://github.com/gywlsdms123/gywlsdms123/issues)
 
-### Skills
+### My Work History
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,pytorch,flask,fastapi,java,spring,postgres,aws,docker,jenkins&perline=4" />
+  </a>
+</p>
 
+### Curious about..
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,redis,scala,grafana,prometheus" />
+  </a>
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gywlsdms123&show_icons=true&theme=radical)
 
 <!--
