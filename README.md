@@ -4,7 +4,7 @@
   <a href="https://skillfromthesky.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hyojin-lee-8b03671a5/" target="_blank"><img src="https://img.shields.io/badge/Hyojin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:gywlsdms123@naver.com" target="_blank"><img src="https://img.shields.io/badge/gywlsdms123@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:hyodddang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyodddang@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
   
 **About me**
